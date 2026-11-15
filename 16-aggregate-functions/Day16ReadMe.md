@@ -8,7 +8,7 @@ Aggregate functions are commonly used in reporting, data analysis, and business 
 
 ## Topics Covered
 
-- Introduction to Aggregate Functions
+- Introduction to Aggregate FunctionsAggregate Functions, which perform calculations on multiple rows and return summary values.
 - `COUNT()`
 - `COUNT(*)` vs `COUNT(column_name)`
 - `COUNT(DISTINCT column_name)`
